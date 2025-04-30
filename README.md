@@ -43,7 +43,3 @@ It's minimalistic, responsive, and coded for a delightful user experience.
 - **CSS3** – for styling and layout
 - **JavaScript (ES6)** – for game logic and interactivity
 
----
-
-## 📂 Project Structure
-
